@@ -27,13 +27,14 @@ Pour acceder a la page web, vous pouvez entrer dans le navigateur l'url du raspb
 
 Une fois la page en place vous pouvez parametrer le SGBD et les bases pour qu'elles répondent a vos attententes, en utilsant l'interface <b>phpmyadmin</b> a laquelle vous pouvez vous connecter tout simplement a l'url <a href="http://zthost/phpmyadmin">http://zthost/phpmyadmin</a> puis nom d'utilisateur et passwd comme dans le tableau en haut de page.
 
-## Utilisation du depot FTP<
+## Utilisation du depot FTP
 Le serveur FTP est actif en permanance.
 
 
 Port 21 host : <a href="ftp://pi:ip@zthost">ftp://zthost</a><br>
 Pour l'identifiant et le passwd allez voir dans le tableau
 
+Yohann Verhnes
 
 Le timout est sur environ 2h d'inactivitée
    
