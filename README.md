@@ -12,8 +12,9 @@ Nous allons tous utiliser le même utilisateur, c'est pourquoi je vous demandera
       
 **Attention** : le dossier pour héberger les sites est *
 classiquement* `/var/www/html` MAIS ne supprimez pas le lien dur vers le dossier `phpmyadmin` il permet de directement depuis l'adresse d'acceder au gestionnaire de bdd.
-      
-      <big>Si vous me maitrisez pas une manipulation ou quoi que ce soit DEMANDER A UN CAMARADE PARCE QUE L'ENTRAIDE C TROP COOL d'autre pars une mauvaise manipulation peut entrainer l'inutilisabilitée du systèmes car j'ai mis a notre utilisateur commun en sudoer *(pour ceux qui ne savent pas en gros vous etes superman et vous pouvez supprimer .. le système d'exploitation (sudo c'est le super user et sudoer c'est les utilisateurs qui ont droit de sudo))* donc on peut **TRÈS** facilement deffoncer le system, c'est pourquoi pour que nous puissions travailler dans de bonnes conditions prenez vos précautions et si vous avez n'importe quelle question posez la moi avant de tester, je me ferais un plaisir de vous repondre tout en ventant les mérites de la jeune framboise !</big>
+
+
+Si vous me maitrisez pas une manipulation ou quoi que ce soit DEMANDER A UN CAMARADE PARCE QUE L'ENTRAIDE C TROP COOL d'autre pars une mauvaise manipulation peut entrainer l'inutilisabilitée du systèmes car j'ai mis a notre utilisateur commun en sudoer *(pour ceux qui ne savent pas en gros vous etes superman et vous pouvez supprimer .. le système d'exploitation (sudo c'est le super user et sudoer c'est les utilisateurs qui ont droit de sudo))* donc on peut **TRÈS** facilement deffoncer le system, c'est pourquoi pour que nous puissions travailler dans de bonnes conditions prenez vos précautions et si vous avez n'importe quelle question posez la moi avant de tester, je me ferais un plaisir de vous repondre tout en ventant les mérites de la jeune framboise !
       
   
 ## Informations compémentaire pour les test des pages l'habergement et la bdd
